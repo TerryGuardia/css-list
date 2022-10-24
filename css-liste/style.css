@@ -1,0 +1,14 @@
+ul {
+    width: 150px;
+}
+ul>li+li {
+    background-color: blue;
+}
+ul>li+li+li {
+    background-color: white;
+}
+/* 
+.bg-blue {
+    background-color: blue;
+}
+*/
